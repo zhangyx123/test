@@ -29,9 +29,10 @@
     learn to control a car
     在模拟网站上模拟轮子前后左右转动并使相应LED发光.
 
-  
-3. 第二次作业:串口数字的数码管动态显示函数
-
-   3.1 number:包含代码number与电路图
-4.第三次作业：morce代码在模拟网站上实现模拟
+3.second_homework /second_homework.ino/电路图: 串口数字的数码管动态显示函数
+3.1 ：数码管代码
+3.2：电路图
+4.third_homework /third_homework.ino/电路图: 函数实现morse代码
+4.1 third_homework.ino ：用函数实现库的内容
+4.2 电路图 ：实现morse代码
 
